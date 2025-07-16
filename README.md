@@ -6,3 +6,10 @@ Perfect for beginners learning the structure of a web page.
 
 ## 🔍 Preview
 ![Screenshot](1.png)
+
+## 🚀 Live Site
+Visit: [https://ashwindevonline.github.io/WebPage/] (https://ashwindevonline.github.io/WebPage/))
+
+# 🛠️ Tech Stack
+- HTML5
+- GitHub Pages
