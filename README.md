@@ -5,4 +5,4 @@ It demonstrates a simple layout with a background image, headings, and navigatio
 Perfect for beginners learning the structure of a web page.
 
 ## 🔍 Preview
-![Screenshot](screenshot.png)
+![Screenshot](1.png)
